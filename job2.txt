@@ -1,5 +1,5 @@
 #job2
-
+这部分内容没有add，也不该commitadd 2 之前的内容
 
 sdfsdfdsfds
 sdfsdfsfdiisd
